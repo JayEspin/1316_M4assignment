@@ -41,3 +41,10 @@ article{
 .mainright p{
     padding-right: 10px;
 }
+footer{
+    clear: both;
+    height: 75px;
+    background-color: orange;
+    bottom: 0;
+    left: 0;
+}
